@@ -24,7 +24,8 @@ Image recognition using aws rekognition""",
       include_package_data=True,
       zip_safe=False,
       install_requires=requirements,
-      entry_points="""
-      # -*- Entry points: -*-
-      """,
-      )
+      entry_points={
+            "console_scripts": [
+                  "reko=reko.__main__:main"
+            ]
+      })

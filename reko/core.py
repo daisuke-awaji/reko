@@ -1,1 +1,2 @@
-program = 'str'
+def program(args):
+    print("yeeeeeeeah")

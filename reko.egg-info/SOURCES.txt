@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+reko/__init__.py
+reko.egg-info/PKG-INFO
+reko.egg-info/SOURCES.txt
+reko.egg-info/dependency_links.txt
+reko.egg-info/entry_points.txt
+reko.egg-info/not-zip-safe
+reko.egg-info/top_level.txt
